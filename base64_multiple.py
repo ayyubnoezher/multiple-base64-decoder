@@ -9,3 +9,7 @@ for i in range(1,x+1,1) :
         result.append(user_dec)
         user_dec=user_dec.strip()
         print("result of -", i, user_dec)
+
+
+
+#for picoCTF chall, u can use 6 iterations
